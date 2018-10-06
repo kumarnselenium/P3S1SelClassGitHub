@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-10-02T02:13:01Z" name="Default suite" finished-at="2018-10-02T02:13:15Z" duration-ms="14411">
+    <groups>
+    </groups>
+    <test started-at="2018-10-02T02:13:01Z" name="Default test" finished-at="2018-10-02T02:13:15Z" duration-ms="14411">
+      <class name="automationConcepts.VerificationsUsingTestNG">
+        <test-method signature="exForverifications()[pri:0, instance:automationConcepts.VerificationsUsingTestNG@7530ad9c]" started-at="2018-10-02T02:13:01Z" name="exForverifications" finished-at="2018-10-02T02:13:15Z" duration-ms="14333" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exForverifications -->
+      </class> <!-- automationConcepts.VerificationsUsingTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
