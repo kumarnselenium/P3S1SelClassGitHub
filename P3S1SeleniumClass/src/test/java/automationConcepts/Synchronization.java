@@ -13,6 +13,7 @@ public class Synchronization {
 
 	public void exWithOutImplicitWait()
 	{
+		//Some
 		//1. Open Chrome Browser	
 		System.setProperty("webdriver.chrome.driver", "/Users/amulyavallamkonda/Documents/Selenium/chromedriver");
 		ChromeDriver oBrowser = new ChromeDriver();
