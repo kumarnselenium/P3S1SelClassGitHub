@@ -6,7 +6,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 
-public class FirstSWDWithoutRec {
+public class FirstSWDWithoutRecTest {
 
 	
 	@Test
